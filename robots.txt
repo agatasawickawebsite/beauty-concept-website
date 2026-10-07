@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+
+Sitemap: https://agatasawickawebsite.github.io/beauty-concept-website/sitemap-index.xml
